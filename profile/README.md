@@ -1,8 +1,8 @@
 # L-U-M-E-N
 
-Lumen is a customizable and modulable personal assistant I ([@Elanis)[https://github.com/Elanis]) built for myself to help my daily life and do some datamining. It was originally built in private using a PHP/Vanilla JS stack. Then an [electron](https://github.com/L-U-M-E-N/lumen-desktop) / [nodejs](https://github.com/L-U-M-E-N/lumen-server) has been built.  
+Lumen is a customizable and modulable personal assistant I ([@Elanis](https://github.com/Elanis)) built for myself to help my daily life and do some datamining. It was originally built in private using a PHP/Vanilla JS stack. Then an [electron](https://github.com/L-U-M-E-N/lumen-desktop) / [nodejs](https://github.com/L-U-M-E-N/lumen-server) has been built.  
   
-The currently **maintained and active version** is [Lumen.App](https://github.com/L-U-M-E-N/Lumen.App) built using .NET.
+### The currently **maintained and active version** is [Lumen.App](https://github.com/L-U-M-E-N/Lumen.App) built using .NET.
 
 ## Official modules
 
