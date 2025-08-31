@@ -10,6 +10,7 @@ Lumen is a customizable and modulable personal assistant I ([@Elanis](https://gi
 
 | Module | Description | API | Desktop | Grafana | Userscripts |
 | --- | --- | --- | --- | --- | --- |
+| [Enedis](https://github.com/L-U-M-E-N/Lumen.Modules.Enedis) | Gets data from the Enedis (French electricity network) API used on their website, using a cookie submitted by a tampermonkey userscript. | ✅ | ❌ | ❌ | ✅ |
 | [GoodReads](https://github.com/L-U-M-E-N/Lumen.Modules.GoodReads) | This module will query data from a GoodReads user profile RSS feed URL to store books progress and make STATS! | ✅ | ❌ | ❌ | ❌ |
 | [GRDF](https://github.com/L-U-M-E-N/Lumen.Modules.GRDF) | Gets data from the GRDF (French natural gas network) API used on their website, using a cookie submitted by a tampermonkey userscript. | ✅ | ❌ | ❌ | ✅ |
 | [NotABot](https://github.com/L-U-M-E-N/Lumen.Modules.NotABot) | Query discord server stats from Not a bot stats API and store it to the database. | ✅ | ❌ | ✅ | ❌ |
@@ -33,4 +34,3 @@ Lumen is a customizable and modulable personal assistant I ([@Elanis](https://gi
 ### Future modules
 
 - Google fit
-- Enedis
