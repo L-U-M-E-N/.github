@@ -12,6 +12,7 @@ The currently **maintained and active version** is [Lumen.App](https://github.co
 
 | Module | Description | API | Desktop | Grafana | Userscripts |
 | --- | --- | --- | --- | --- | --- |
+| [Calendar](https://github.com/L-U-M-E-N/Lumen.Modules.Calendar) | Store one or multiple calendar events in a database | ✅ | ❌ | ❌ | ❌ | 
 | [Enedis](https://github.com/L-U-M-E-N/Lumen.Modules.Enedis) | Gets data from the Enedis (French electricity network) API used on their website, using a cookie submitted by a tampermonkey userscript. | ✅ | ❌ | ❌ | ✅ |
 | [FocusStats](https://github.com/L-U-M-E-N/Lumen.Modules.FocusStats) | Get focused window name and executable, tag activities and create stats about them. | ✅ | ❌ | ❌ | ❌ |
 | [GoodReads](https://github.com/L-U-M-E-N/Lumen.Modules.GoodReads) | This module will query data from a GoodReads user profile RSS feed URL to store books progress and make STATS! | ✅ | ❌ | ❌ | ❌ |
@@ -28,13 +29,11 @@ If you want to create a module, see [the template repository](https://github.com
 
 | Module | Description | Server | Desktop | Grafana | Userscripts |
 | --- | --- | --- | --- | --- | --- |
-| [calendar](https://github.com/L-U-M-E-N/lumen-module-calendar) | Store one or multiple calendar events in a database | ✅ | ❌ | ❌ | ❌ |
 | [personalStats](https://github.com/L-U-M-E-N/lumen-module-personalStats) | This module will help to time yourself on multiple categories of activities (Example: Work, Game, Other). | ✅ | ✅ | ❌ | ❌ |
 | [power-tplink-tapo-p110](https://github.com/L-U-M-E-N/lumen-module-power-tplink-tapo-p110) | Power monitoring using TPLink Tapo P110. | ✅ | ✅ | ✅ | ❌ |
 
 ### Future
 
-- Calendar (.NET Rework)
 - Google fit (WIP, needs a real Oauth flow: https://github.com/L-U-M-E-N/Lumen.Modules.GoogleFit )
 - Focus stats (.NET Rework)
 - Lefant vaccum
