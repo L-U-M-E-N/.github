@@ -35,7 +35,6 @@ If you want to create a module, see [the template repository](https://github.com
 ### Future
 
 - Google fit (WIP, needs a real Oauth flow: https://github.com/L-U-M-E-N/Lumen.Modules.GoogleFit )
-- Focus stats (.NET Rework)
 - Lefant vaccum
 - Mova lawn mower
 - Tapo P110 (.NET Rework)
