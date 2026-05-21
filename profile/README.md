@@ -4,7 +4,7 @@ Lumen is a customizable and modulable personal assistant I ([@Elanis](https://gi
 
 ## App Repository
 
-The currently **maintained and active version** is [Lumen.App](https://github.com/L-U-M-E-N/Lumen.App) built using .NET.
+The currently **maintained and active version** is [Lumen.App](https://github.com/L-U-M-E-N/Lumen.App) built using .NET. If you want to setup your own server using Lumen, you can use [this docker image](https://github.com/Dysnomia-Studio/docker-images/blob/main/lumen-server/Dockerfile) as an example.
 
 ## Official modules
 
