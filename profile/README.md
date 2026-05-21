@@ -34,6 +34,7 @@ If you want to create a module, see [the template repository](https://github.com
 
 ### Future
 
+- BeatLeader/ScoreSaber whole history import + browser script to update data
 - Google fit (WIP, needs a real Oauth flow: https://github.com/L-U-M-E-N/Lumen.Modules.GoogleFit )
 - Lefant vaccum
 - Mova lawn mower
