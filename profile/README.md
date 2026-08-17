@@ -1,8 +1,6 @@
 # L-U-M-E-N
 
-Lumen is a customizable and modulable personal assistant I ([@Elanis](https://github.com/Elanis)) built for myself to help my daily life and do some datamining. It was originally built in private using a PHP/Vanilla JS stack. Then an [electron](https://github.com/L-U-M-E-N/lumen-desktop) / [nodejs](https://github.com/L-U-M-E-N/lumen-server) has been built.  
-
-## App Repository
+Lumen is a customizable and modulable personal assistant I ([@Elanis](https://github.com/Elanis)) built for myself to help my daily life and do some datamining. It was originally built in private using a PHP/Vanilla JS stack. Then an electron(desktop)/nodejs(server) version has been built.  
 
 The currently **maintained and active version** is [Lumen.App](https://github.com/L-U-M-E-N/Lumen.App) built using .NET. If you want to setup your own server using Lumen, you can use [this docker image](https://github.com/Dysnomia-Studio/docker-images/blob/main/lumen-server/Dockerfile) as an example.
 
@@ -14,6 +12,7 @@ The currently **maintained and active version** is [Lumen.App](https://github.co
 | --- | --- | --- | --- | --- | --- |
 | [Calendar](https://github.com/L-U-M-E-N/Lumen.Modules.Calendar) | Store one or multiple calendar events in a database | ✅ | ❌ | ❌ | ❌ | 
 | [Enedis](https://github.com/L-U-M-E-N/Lumen.Modules.Enedis) | Gets data from the Enedis (French electricity network) API used on their website, using a cookie submitted by a tampermonkey userscript. | ✅ | ❌ | ❌ | ✅ |
+| [EnergyConsumption](https://github.com/L-U-M-E-N/Lumen.Modules.EnergyConsumption) | Summarize data from various energy consumption sources (e.g. smart plugs). | ✅ | ❌ | ❌ | ❌ |
 | [FocusStats](https://github.com/L-U-M-E-N/Lumen.Modules.FocusStats) | Get focused window name and executable, tag activities and create stats about them. | ✅ | ❌ | ❌ | ❌ |
 | [GoodReads](https://github.com/L-U-M-E-N/Lumen.Modules.GoodReads) | This module will query data from a GoodReads user profile RSS feed URL to store books progress and make STATS! | ✅ | ❌ | ❌ | ❌ |
 | [GRDF](https://github.com/L-U-M-E-N/Lumen.Modules.GRDF) | Gets data from the GRDF (French natural gas network) API used on their website, using a cookie submitted by a tampermonkey userscript. | ✅ | ❌ | ❌ | ✅ |
@@ -30,7 +29,6 @@ If you want to create a module, see [the template repository](https://github.com
 | Module | Description | Server | Desktop | Grafana | Userscripts |
 | --- | --- | --- | --- | --- | --- |
 | [personalStats](https://github.com/L-U-M-E-N/lumen-module-personalStats) | This module will help to time yourself on multiple categories of activities (Example: Work, Game, Other). | ✅ | ✅ | ❌ | ❌ |
-| [power-tplink-tapo-p110](https://github.com/L-U-M-E-N/lumen-module-power-tplink-tapo-p110) | Power monitoring using TPLink Tapo P110. | ✅ | ✅ | ✅ | ❌ |
 
 ### Future
 
@@ -38,7 +36,6 @@ If you want to create a module, see [the template repository](https://github.com
 - Google fit (WIP, needs a real Oauth flow: https://github.com/L-U-M-E-N/Lumen.Modules.GoogleFit )
 - Lefant vaccum
 - Mova lawn mower
-- Tapo P110 (.NET Rework)
 
 ## Archived repositories
 
@@ -58,5 +55,6 @@ If you want to create a module, see [the template repository](https://github.com
 | [monitoring](https://github.com/L-U-M-E-N/lumen-module-monitoring) | This module will query every few minutes a list of website to check they are alive. | ❌ | ✅ | ❌ | ❌ |  
 | [music](https://github.com/L-U-M-E-N/lumen-module-music) | This module will list local music sort them by folder, and lets you to play them. This module keeps playing music whatever is the current opened window in L.U.M.E.N. | ❌ | ✅ | ❌ | ❌ |  
 | [pictureOfTheMoment](https://github.com/L-U-M-E-N/lumen-module-pictureOfTheMoment) | This module will display an image on main screen, and will change it every X minutes based on a folder filter. | ❌ | ✅ | ❌ | ❌ |  
+| [power-tplink-tapo-p110](https://github.com/L-U-M-E-N/lumen-module-power-tplink-tapo-p110) | Power monitoring using TPLink Tapo P110. | ✅ | ✅ | ✅ | ❌ |
 | [steamAchievements](https://github.com/L-U-M-E-N/lumen-module-steamAchievements) | This module will display your https://achieve.games profile | ❌ | ✅ | ❌ | ❌ |  
 </details>
