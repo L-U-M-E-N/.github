@@ -22,26 +22,20 @@ The currently **maintained and active version** is [Lumen.App](https://github.co
 
 If you want to create a module, see [the template repository](https://github.com/L-U-M-E-N/lumen-desktop), the [SDK repository](https://github.com/L-U-M-E-N/Lumen.Modules.Sdk) and the [CI](https://github.com/L-U-M-E-N/reusable-workflow).
 
-### Legacy (Electron/nodejs) version
-
-(Currently being rewritten one by one in .NET)
-
-| Module | Description | Server | Desktop | Grafana | Userscripts |
-| --- | --- | --- | --- | --- | --- |
-| [personalStats](https://github.com/L-U-M-E-N/lumen-module-personalStats) | This module will help to time yourself on multiple categories of activities (Example: Work, Game, Other). | ✅ | ✅ | ❌ | ❌ |
-
-### Future
+### Future modules
 
 - BeatLeader/ScoreSaber whole history import + browser script to update data
+- Ford EV car data
 - Google fit (WIP, needs a real Oauth flow: https://github.com/L-U-M-E-N/Lumen.Modules.GoogleFit )
 - Lefant vaccum
 - Mova lawn mower
+- Sleep rhythm module
 
 ## Archived repositories
 
-[Lumen v1 to v4](https://github.com/L-U-M-E-N/old-versions)  
-[Lumen v5 (Desktop)](https://github.com/L-U-M-E-N/lumen-desktop)  
-[Lumen v5 (Server)](https://github.com/L-U-M-E-N/lumen-server) and its [docker image wrapped with a seafile client](https://github.com/L-U-M-E-N/lumen-server-docker-seafile-client)
+[Lumen v1 to v4](https://github.com/L-U-M-E-N/old-versions)  (PHP/Vanilla JS)  
+[Lumen v5 (Desktop)](https://github.com/L-U-M-E-N/lumen-desktop)  (Electron)  
+[Lumen v5 (Server)](https://github.com/L-U-M-E-N/lumen-server) and its [docker image wrapped with a seafile client](https://github.com/L-U-M-E-N/lumen-server-docker-seafile-client) (Node.JS + Seafile)  
 
 <details>
   <summary>Archived modules</summary>
@@ -54,6 +48,8 @@ If you want to create a module, see [the template repository](https://github.com
 | [calendar-netflixhistory](https://github.com/L-U-M-E-N/lumen-module-calendar-netflixhistory) | Store Netflix watching history in the "calendar" module database | ✅ | ❌ | ❌ | ❌ |
 | [monitoring](https://github.com/L-U-M-E-N/lumen-module-monitoring) | This module will query every few minutes a list of website to check they are alive. | ❌ | ✅ | ❌ | ❌ |  
 | [music](https://github.com/L-U-M-E-N/lumen-module-music) | This module will list local music sort them by folder, and lets you to play them. This module keeps playing music whatever is the current opened window in L.U.M.E.N. | ❌ | ✅ | ❌ | ❌ |  
+
+| [personalStats](https://github.com/L-U-M-E-N/lumen-module-personalStats) | This module will help to time yourself on multiple categories of activities (Example: Work, Game, Other). | ✅ | ✅ | ❌ | ❌ |
 | [pictureOfTheMoment](https://github.com/L-U-M-E-N/lumen-module-pictureOfTheMoment) | This module will display an image on main screen, and will change it every X minutes based on a folder filter. | ❌ | ✅ | ❌ | ❌ |  
 | [power-tplink-tapo-p110](https://github.com/L-U-M-E-N/lumen-module-power-tplink-tapo-p110) | Power monitoring using TPLink Tapo P110. | ✅ | ✅ | ✅ | ❌ |
 | [steamAchievements](https://github.com/L-U-M-E-N/lumen-module-steamAchievements) | This module will display your https://achieve.games profile | ❌ | ✅ | ❌ | ❌ |  
