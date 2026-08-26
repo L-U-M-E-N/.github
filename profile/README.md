@@ -48,7 +48,6 @@ If you want to create a module, see [the template repository](https://github.com
 | [calendar-netflixhistory](https://github.com/L-U-M-E-N/lumen-module-calendar-netflixhistory) | Store Netflix watching history in the "calendar" module database | ✅ | ❌ | ❌ | ❌ |
 | [monitoring](https://github.com/L-U-M-E-N/lumen-module-monitoring) | This module will query every few minutes a list of website to check they are alive. | ❌ | ✅ | ❌ | ❌ |  
 | [music](https://github.com/L-U-M-E-N/lumen-module-music) | This module will list local music sort them by folder, and lets you to play them. This module keeps playing music whatever is the current opened window in L.U.M.E.N. | ❌ | ✅ | ❌ | ❌ |  
-
 | [personalStats](https://github.com/L-U-M-E-N/lumen-module-personalStats) | This module will help to time yourself on multiple categories of activities (Example: Work, Game, Other). | ✅ | ✅ | ❌ | ❌ |
 | [pictureOfTheMoment](https://github.com/L-U-M-E-N/lumen-module-pictureOfTheMoment) | This module will display an image on main screen, and will change it every X minutes based on a folder filter. | ❌ | ✅ | ❌ | ❌ |  
 | [power-tplink-tapo-p110](https://github.com/L-U-M-E-N/lumen-module-power-tplink-tapo-p110) | Power monitoring using TPLink Tapo P110. | ✅ | ✅ | ✅ | ❌ |
