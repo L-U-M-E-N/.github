@@ -17,6 +17,7 @@ The currently **maintained and active version** is [Lumen.App](https://github.co
 | [GoodReads](https://github.com/L-U-M-E-N/Lumen.Modules.GoodReads) | This module will query data from a GoodReads user profile RSS feed URL to store books progress and make STATS! | ✅ | ❌ | ❌ | ❌ |
 | [GRDF](https://github.com/L-U-M-E-N/Lumen.Modules.GRDF) | Gets data from the GRDF (French natural gas network) API used on their website, using a cookie submitted by a tampermonkey userscript. | ✅ | ❌ | ❌ | ✅ |
 | [NotABot](https://github.com/L-U-M-E-N/Lumen.Modules.NotABot) | Query discord server stats from Not a bot stats API and store it to the database. | ✅ | ❌ | ✅ | ❌ |
+| [Sleep](https://github.com/L-U-M-E-N/Lumen.Modules.Sleep) | Store data about sleep hours. | ✅ | ❌ | ❌ | ❌ |
 | [SteamPartner](https://github.com/L-U-M-E-N/Lumen.Modules.SteamPartner) | Store followers, wishlists and package sales for games on Steam, in a database, later used for reporting/stats. | ✅ | ❌ | ✅ | ✅ |
 | [Youtube](https://github.com/L-U-M-E-N/Lumen.Modules.Youtube) | This module will tell you how many videos and time is left in a specific playlist and store its history in a database table. | ✅ | ❌ | ✅ | ❌ |
 
@@ -29,7 +30,6 @@ If you want to create a module, see [the template repository](https://github.com
 - Google fit (WIP, needs a real Oauth flow: https://github.com/L-U-M-E-N/Lumen.Modules.GoogleFit )
 - Lefant vaccum
 - Mova lawn mower
-- Sleep rhythm module
 
 ## Archived repositories
 
